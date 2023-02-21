@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "李永辉",
+    name: "LYH",
     image: "/myown.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "可能什么都做过一丁点",
+    role: "倔强青铜选手",
     bio: "stop learning, start dying",
     email: "1437891764@qq.com",
     linkedin: "liyonghui",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "lyh-blog",
-    description: "welcome to liynghui's blog!",
+    title: "LYH'S BLOG",
+    description: "welcome to lyh's blog!",
     theme: "light", // ['light', 'dark', 'auto']
   },
 
