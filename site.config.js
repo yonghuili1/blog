@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://blog-yonghuili1.vercel.app/",
+  link: "https://liyonghui.cn/",
   since: 2022, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -41,13 +41,13 @@ const CONFIG = {
   googleAnalytics: {
     enable: false,
     config: {
-      measurementId: process.env.GOOGLE_MEASUREMENT_ID || "",
+      measurementId: process.env.GOOGLE_MEASUREMENT_ID || "G-8S66JX2F28",
     },
   },
   googleSearchConsole: {
     enable: false,
     config: {
-      siteVerification: process.env.GOOGLE_SITE_VERIFICATION || "",
+      siteVerification: process.env.GOOGLE_SITE_VERIFICATION || "LB_5D8vcCdOsjTdqnm2pCUvaSszAyiAXsfFzHBC-VkM",
     },
   },
   utterances: {
