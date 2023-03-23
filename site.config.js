@@ -6,7 +6,7 @@ const CONFIG = {
     role: "倔强青铜选手",
     bio: "stop learning, start dying",
     email: "1437891764@qq.com",
-    linkedin: "liyonghui",
+    linkedin: "/yonghui-li-88a90b22a",
     github: "yonghuili1",
     instagram: "",
   },
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "LYH'S BLOG",
     description: "welcome to lyh's blog!",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Blog", "Website", "Notion","Liyonghui"],
   },
 
   // notion configuration (required)
